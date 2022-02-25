@@ -1,0 +1,67 @@
+.btn{
+    color:#fff;
+    width: 100%;
+}
+.col-md-4{
+    padding-top: 50px;
+}
+.form-control{
+    background-color: #f8f6f6;
+    color: #d2d2d2;
+    border: 1px solid #faf6f6;
+}
+.footer{
+    margin-top: 160px;
+    text-align: center;
+    color: #d2d2d2;
+}
+span{
+    font-size: 11px;
+    color: #2F2F2F;
+    opacity: 0.5;
+    margin-left: 25px;
+}
+
+body{margin: 0;
+    font-family: "Lato", sans-serif;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("https://www.strongpoint.com/wp-content/uploads/2020/05/ecommerce-3-2-22-16-1-e1590303467832-1055x540_3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+}
+.sidebar a {
+    display: block;
+    color:  rgba(255, 255, 255, 0.54);
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.Menu ul{
+    list-style-type: none;
+    width: 100%;
+    padding: 0px;
+}
+.Menu ul li{
+    padding: 5px 40px;
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #404f91;
+    color:  rgba(255, 255, 255, 0.54);
+
+}
+.Menu li:hover{
+    /*background-color: #E5E5E5;*/
+    background-color: #404f91;
+    color: #fff;
+
+
+}
+.Menu ul li a{
+    text-decoration: none;
+    /*color: #000;*/
+    padding-left: 10px;
+    color:  rgba(255, 255, 255, 0.54);
+
+}
